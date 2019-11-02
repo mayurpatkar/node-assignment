@@ -1,0 +1,537 @@
+Looking for git in: C:\Program Files\Git\cmd\git.exe
+Using git 2.23.0.windows.1 from C:\Program Files\Git\cmd\git.exe
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: d:\Workspace\ev_rules_engine
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git check-ignore -v -z --stdin
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :config/default-evanios-re.env
+> git show :config/evanios-re.env
+> git show :config/default-evanios-re.env
+> git show :README.md
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: d:\Workspace\ev_rules_engine\local_modules\ev_evrecord
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show :README.md
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: d:\Workspace\ev_rules_engine\local_modules\ev_shared
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git show :README.md
+> git status -z -u
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse master
+> git symbolic-ref --short HEAD
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-parse --symbolic-full-name master@{u}
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git show :package-lock.json
+> git show :package.json
+> git show :.gitmodules
+> git show :README.md
+> git show :.gitmodules
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show :README.md
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git status -z -u
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_shared\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\master'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git check-ignore -v -z --stdin
+> git show :config/default-evanios-re.env
+> git check-ignore -v -z --stdin
+> git show :README.md
+> git show :README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse BUG_269743
+> git rev-parse --symbolic-full-name BUG_269743@{u}
+> git rev-list --left-right BUG_269743...refs/remotes/origin/BUG_269743
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\BUG_269743', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\BUG_269743'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse BUG_269743
+> git rev-parse --symbolic-full-name BUG_269743@{u}
+> git rev-list --left-right BUG_269743...refs/remotes/origin/BUG_269743
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\BUG_269743', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\BUG_269743'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git show :README.md
+> git status -z -u
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git symbolic-ref --short HEAD
+> git rev-parse BUG_269743
+> git rev-parse BUG_269743
+> git rev-parse --symbolic-full-name BUG_269743@{u}
+> git rev-parse --symbolic-full-name BUG_269743@{u}
+> git rev-list --left-right BUG_269743...refs/remotes/origin/BUG_269743
+> git rev-list --left-right BUG_269743...refs/remotes/origin/BUG_269743
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\BUG_269743', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'd:\Workspace\ev_rules_engine\.git\refs\remotes\origin\BUG_269743'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+Failed to watch ref 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\BUG_269743', is most likely packed.
+Error: ENOENT: no such file or directory, watch 'D:\Workspace\ev_rules_engine\.git\modules\local_modules\ev_evrecord\refs\remotes\origin\BUG_269743'
+	at FSWatcher.start (internal/fs/watchers.js:164:26)
+	at Object.watch (fs.js:1232:11)
+	at Object.t.watch (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:594401)
+	at T.updateTransientWatchers (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:98291)
+	at l.fire (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:50:539)
+	at k.updateModelState (c:\Users\PatkarMa\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\main.js:1:115979)
+> git check-ignore -v -z --stdin

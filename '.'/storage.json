@@ -1,0 +1,28 @@
+{
+    "telemetry.machineId": "c7d88c27b8017c1d1e9b002613d2e740e12db702f32c909fb34318fc646b4f65",
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///d%3A/Workspace/ev_consumer_backend",
+            "file:///d%3A/Workspace/ev_rules_engine",
+            "file:///c%3A/Users/PatkarMa/Project_Node/assignment"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "D:\\Workspace",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/Workspace/ev_consumer_backend",
+            "backupPath": "c:\\Users\\PatkarMa\\Project_Node\\assignment\\'.'\\Backups\\0de233a6c03d43f9d028e801470b84b7",
+            "uiState": {
+                "mode": 0,
+                "x": 171,
+                "y": 0,
+                "width": 1024,
+                "height": 728
+            }
+        },
+        "openedWindows": []
+    }
+}
